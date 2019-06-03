@@ -1,0 +1,7 @@
+com/letsstart/springbootjwt/model/Role.class
+com/letsstart/springbootjwt/model/User.class
+com/letsstart/springbootjwt/controller/DemoController.class
+com/letsstart/springbootjwt/config/JWTConfig.class
+com/letsstart/springbootjwt/App.class
+com/letsstart/springbootjwt/repository/UserRepository.class
+com/letsstart/springbootjwt/service/UserService.class

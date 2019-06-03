@@ -1,0 +1,7 @@
+/Applications/MAMP/htdocs/eclipse/springbootrestapi/springbootjwt/src/main/java/com/letsstart/springbootjwt/model/User.java
+/Applications/MAMP/htdocs/eclipse/springbootrestapi/springbootjwt/src/main/java/com/letsstart/springbootjwt/App.java
+/Applications/MAMP/htdocs/eclipse/springbootrestapi/springbootjwt/src/main/java/com/letsstart/springbootjwt/model/Role.java
+/Applications/MAMP/htdocs/eclipse/springbootrestapi/springbootjwt/src/main/java/com/letsstart/springbootjwt/repository/UserRepository.java
+/Applications/MAMP/htdocs/eclipse/springbootrestapi/springbootjwt/src/main/java/com/letsstart/springbootjwt/controller/DemoController.java
+/Applications/MAMP/htdocs/eclipse/springbootrestapi/springbootjwt/src/main/java/com/letsstart/springbootjwt/config/JWTConfig.java
+/Applications/MAMP/htdocs/eclipse/springbootrestapi/springbootjwt/src/main/java/com/letsstart/springbootjwt/service/UserService.java
